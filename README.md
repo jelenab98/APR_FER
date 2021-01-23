@@ -6,6 +6,7 @@ Teme koje su obrađene u vježbama:
   + optimizacija funkcije jedne i više varijabli bez uporabe gradijenta (zlatni rez, unimodalni interval, pretraživanje po koordinatnim osima, Hooke-Jeeves, Simplex)
   + optimizacija funkcija uporabom gradijenta i optimizacija s ograničenjima
   + genetski algoritam
+  + metode numeričke integracije (Euler, obrnuti Euler, Trapez, Runge Kutta, prediktorsko-korekcijski postupak)
   
 Laboratory exercises from the course Computer Aided Analysis and Design (UniZG-FER 2020/2021)
 --
@@ -14,3 +15,4 @@ Topics covered in the exercises:
   + Optimization without gradient calculation (Golden ratio, Unimodal interval, Coordinate Search, Hooke-Jeeves, Simplex)
   + Constrained optimization and gradient optimization (Gradient descent, Newton-Raphson, Box algorithm)
   + Genetic algorithm
+  + Numerical integrations (Euler, Reversed Euler, Trapese, Runge Kutta, Predictor-Corrector)
