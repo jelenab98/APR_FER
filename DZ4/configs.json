@@ -1,0 +1,1 @@
+{"type": "discrete", "function": 2, "crossovers": ["whole-arithmetic", "single", "simple", "discrete", "one-point"], "mutations": ["uniform", "gauss"], "k": 3, "population": 1000, "variables": 3, "p_mut": 0.5, "max_iter": 100000.0, "epsilon": 1e-06, "interval": [-50, 150], "printing": true}
